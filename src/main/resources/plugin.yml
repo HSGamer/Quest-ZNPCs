@@ -1,0 +1,5 @@
+name: Quest-ZNPCs
+version: '${project.version}'
+main: me.hsgamer.questznpcs.Quest_ZNPCs
+api-version: '1.13'
+depend: [ Quests, ServersNPC ]
